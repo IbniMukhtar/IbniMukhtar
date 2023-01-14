@@ -1,6 +1,9 @@
--<p align=”center” >
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/47204311/212476990-538052a9-a306-41cd-8da6-7c15fde99208.png" alt=”my banner”>
-</p>
+  <p align="center">
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/47204311/212473919-0f191950-9cc0-4971-87d7-8ae416a177e7.png" alt="my banner" style="width=100;height=100">
+  </a>
+ </p>                                                                                                                          
+ </p>
 -👋 Hi, I’m @IbniMukhtar <br>
 - 👀 I’m interested in coding <br>
 - 🌱 I’m currently learning MERN Stack <br>
